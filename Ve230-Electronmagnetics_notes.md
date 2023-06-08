@@ -4,9 +4,7 @@ Author: Minjie Mao
 
 Time: 2021 Summer
 
-Text book: Field and Wave Electromagnetics 
-
-[TOC]
+Text book: Field and Wave Electromagnetics
 
 
 
@@ -32,9 +30,11 @@ $$
 ### 1.2 Orthogonal Coordinate Systems
 
 - **Cartesian Coordinates**
+
 $$
 \left(u_{1}, u_{2}, u_{3}\right)=(x, y, z)
 $$
+
 $$
 \mathbf{A}=\mathbf{a}_{x} A_{x}+\mathbf{a}_{\mathbf{y}} A_{y}+\mathbf{a}_{z} A_{z}
 $$
