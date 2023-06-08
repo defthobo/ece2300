@@ -1,3 +1,5 @@
+<!-- title: index -->
+
 # Ve230 - Electromagnetics
 
 Author: Minjie Mao 
