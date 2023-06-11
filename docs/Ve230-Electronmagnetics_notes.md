@@ -1,5 +1,3 @@
-<!-- title: index -->
-
 # Ve230 - Electromagnetics
 
 Author: Minjie Mao 
@@ -20,7 +18,7 @@ $$
 \mathbf{A} \cdot(\mathbf{B} \times \mathbf{C})=\mathbf{B} \cdot(\mathbf{C} \times \mathbf{A})=\mathbf{C} \cdot(\mathbf{A} \times \mathbf{B})
 $$
 - **Vector triple product**
-
+~
 $$
 \mathbf{A} \times(\mathbf{B} \times \mathbf{C})=\mathbf{B}(\mathbf{A} \cdot \mathbf{C})-\mathbf{C}(\mathbf{A} \cdot \mathbf{B})
 $$
